@@ -1,6 +1,6 @@
 # Collatz conjecture with a brute force approach
 
-My crack at solving one of the word's unsolved problems in mathematics in Julia:
+My crack at solving one of the world's unsolved problems in mathematics in Julia:
 
 Unsolved problem in mathematics: Does the Collatz sequence eventually reach 1 for all positive integer initial values?
 
